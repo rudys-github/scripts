@@ -5,7 +5,7 @@ rem Input  : table_name  varchar2(30) (no wildcards)
 rem        : schema_name varchar2(30) (no wildcards)
 rem Output : 'schema_name'.'table_name'.sql SQL script
 rem Date   : 01-03-96
-rem Author : Ruud de Gunst, Quality Pro Database Technology bv
+rem Author : Ruud de Gunst, CRV
 rem Purpose: Generating a SQL ddl script for disabling/enabling
 rem          foreign key constraints referencing a given table.
 rem =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
